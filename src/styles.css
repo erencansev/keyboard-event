@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-color: #161616;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+a {
+  color: white;
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  font-family: "Inter", sans-serif;
+  text-decoration: none;
+  color: #fff;
+  font-size: 15px;
+  opacity: 0.5;
+}
