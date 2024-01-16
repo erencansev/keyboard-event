@@ -10,12 +10,6 @@
 This project includes an interactive keyboard design created using React and spline library.
 ---
 
-## Demo Video 👾
-
-
-
-https://github.com/erencansev/keyboard-event/assets/109366452/d33aeda0-4b1e-46e5-b7be-391da2128df7
-
 
 
 
